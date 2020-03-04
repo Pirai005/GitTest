@@ -1,1 +1,1 @@
- This is the first test file added to this reporsitory.
+ This is the first test file added to this repository.
